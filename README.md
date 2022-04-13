@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Khabbab</h1>
-<h3 align="center">A passionate Full-Stack developer from Bogura, Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Bogura, Bangladesh</h3>
 
 - 🔭 I’m currently working on [Halal-Bondhon](https://halalbondhon.com)
 
