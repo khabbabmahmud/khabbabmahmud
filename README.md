@@ -1,5 +1,6 @@
-- 👋 Hi, I’m <strong>khabbab Mahmud</strong> from Bogura, Bangladesh.
-- 👀 I'm interested in web app development.
-- 🌱 I'm currently learning react & laravel.
-- 💞️ I'm looking to collaborate on any web application project.
-- 📫 How to reach me khabbabmahmud1@gmail.com
+<h1 align="center">Hi there 👋, I'm khabbab</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
